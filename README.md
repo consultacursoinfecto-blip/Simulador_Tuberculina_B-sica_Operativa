@@ -1,1 +1,1 @@
-# Simulador_Tuberculina_B-sica_Operativa
+# Simulador_Tuberculina_Basica_Operativa
